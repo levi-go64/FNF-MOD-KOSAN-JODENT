@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok stfu and do this shet mod"
+		}
+	]
+}
