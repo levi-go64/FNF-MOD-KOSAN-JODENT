@@ -1,0 +1,4 @@
+Value 1: Input a number that the game allows normally
+The max is 10 (You can actually put this WAY
+higher than 10 but I don't recommend it)
+Value 2: There is nothing in here so just blank it
